@@ -22,7 +22,7 @@ Hear what some of our clients have to say:
 
 - *"Working with [WebbCrew] was a breeze. Their expertise, attention to detail, and support throughout the project were outstanding."* - [Mohd Ahmed, AWS]
 
-- *"Their ability to adapt to our specific needs, no matter the scale of our project, sets [WebbCrew] apart from the rest."* - [Mahira, Deciml]
+- *"Their ability to adapt to our specific needs, no matter the scale of our project, sets [WebbCrew] apart from the rest."* - [Mahira, OpenText]
 
 ---
 
