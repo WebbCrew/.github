@@ -29,7 +29,7 @@ Hear what some of our clients have to say:
 ✉️ **Contact Us**
 
 If you're serious about turning your project into a success story, we invite you to reach out. Please email us at `iQual34@gmail.com` with your project requirements, and we'll be eager to discuss how we can assist you.
-   **Mail**: [iQual34@gmail.com]
+
 📱 **GitHub**: [(https://github.com/WebbCrew)]
 
 ---
